@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Prompt Engineering"
+abstract: "A curated list of tools, guides, research papers, frameworks, courses, datasets, and resources for prompt engineering and human-AI interaction."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-prompt-engineering"
+keywords:
+  - prompt engineering
+  - prompts
+  - large language models
+  - LLMs
+  - generative AI
+  - artificial intelligence
+  - human-AI interaction
+  - AI workflows
+  - AI prompting
+  - awesome list

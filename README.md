@@ -63,7 +63,10 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 - **[Prompt Engineering Daily](https://promptengineeringdaily.com/)** – Newsletter with tips and prompt ideas.
 - **[Hugging Face Forum](https://discuss.huggingface.co/)** – Discussion and sharing around model fine-tuning and prompts.
 
-## Applications & Use Cases
+## Applications
+
+- [Perseus](https://github.com/tcconnally/perseus) - Live workspace context engine for AI agents. Renders AGENTS.md at session start. Plug-in for Claude Code, Codex, Hermes.
+ & Use Cases
 
 - **[AgentGPT](https://agentgpt.reworkd.ai/)** – Autonomous AI agents with prompt-driven tasks.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental AI agent using GPT and prompt chains.
